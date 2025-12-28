@@ -155,3 +155,4 @@ else:
     st.divider()
     st.subheader("🛠️ Metadata Konfigurasi Model")
     st.table(metadata_df)
+

@@ -45,6 +45,3 @@ Aplikasi berbasis web ini menyajikan hasil peramalan parameter iklim temporal di
 
 > **Catatan:** Dashboard ini merupakan bagian dari penelitian ilmiah. Hasil peramalan yang ditampilkan adalah output dari model pembelajaran mesin (LSTM) dan ditujukan untuk keperluan analisis akademis.
 
-
-
-**Apakah dashboard Anda saat ini sudah berjalan dengan lancar setelah kita membatasi hanya 8 parameter?** Jika ada yang ingin diperhalus lagi tampilannya, silakan beri tahu saya.
